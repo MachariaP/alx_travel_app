@@ -137,4 +137,4 @@ MIT License
 ## 10. Created By
 
 **Phinehas Macharia**  
-[GitHub](https://github.com/MachariaP) · [LinkedIn](https://linkedin.com/)
+[GitHub](https://github.com/MachariaP)
